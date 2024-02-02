@@ -47,6 +47,7 @@ We exported the dataframe as a CSV file titled “contacts.csv”.
 After the four CSV files were created, we used QuickDBD Tool to create a visual representation of our table schema and primary and foreign key relationships. 
 
 We used the QuickDBD export function to obtain a PNG image file of our table schema, as well as a SQL file that we could import into PostGreSQL PgAdmin. 
+![db_diagram](https://github.com/ASPigman/crowdfunding_ETL/assets/145923874/8fb43786-8ed1-4c59-8b76-b02de52467b5)
 
 We created a database titled “crowdfunding_db” using PgAdmin. 
 
